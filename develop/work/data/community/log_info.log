@@ -1,0 +1,15 @@
+2025-03-24 23:15:53,978 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:53] Starting LoggerTests using Java 23 with PID 7036 (started by 田亮 in C:\develop\work\workspace\community)
+2025-03-24 23:15:53,984 INFO [main] c.n.c.LoggerTests [SpringApplication.java:652] No active profile set, falling back to 1 default profile: "default"
+2025-03-24 23:15:55,999 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:59] Adding welcome page template: index
+2025-03-24 23:15:56,598 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 3.313 seconds (process running for 4.411)
+2025-03-24 23:15:57,628 INFO [main] c.n.c.LoggerTests [LoggerTests.java:20] info
+2025-03-24 23:17:59,356 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:53] Starting LoggerTests using Java 23 with PID 14072 (started by 田亮 in C:\develop\work\workspace\community)
+2025-03-24 23:17:59,361 INFO [main] c.n.c.LoggerTests [SpringApplication.java:652] No active profile set, falling back to 1 default profile: "default"
+2025-03-24 23:18:01,484 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:59] Adding welcome page template: index
+2025-03-24 23:18:02,084 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 3.42 seconds (process running for 4.427)
+2025-03-24 23:18:03,097 INFO [main] c.n.c.LoggerTests [LoggerTests.java:20] info
+2025-03-24 23:19:24,549 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:53] Starting LoggerTests using Java 23 with PID 41036 (started by 田亮 in C:\develop\work\workspace\community)
+2025-03-24 23:19:24,553 INFO [main] c.n.c.LoggerTests [SpringApplication.java:652] No active profile set, falling back to 1 default profile: "default"
+2025-03-24 23:19:26,424 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:59] Adding welcome page template: index
+2025-03-24 23:19:26,887 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 2.918 seconds (process running for 3.895)
+2025-03-24 23:19:27,900 INFO [main] c.n.c.LoggerTests [LoggerTests.java:20] info
