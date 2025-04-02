@@ -41,7 +41,7 @@
         where id = #{id}
     </update>
 
-    <update id="updateHeader" parameterType="int">
+    <update id="updateHeader" parameterType="map">
         update user
         set header_url = #{headerUrl}
         where id = #{id}
