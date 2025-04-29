@@ -86,7 +86,7 @@ public class User {
         this.headerUrl = headerUrl;
     }
 
-    public Date getCreateTime(Date date) {
+    public Date getCreateTime() {
         return createTime;
     }
 

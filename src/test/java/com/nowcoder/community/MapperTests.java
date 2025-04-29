@@ -42,7 +42,7 @@ public class MapperTests {
         user.setPassword("123456");
         user.setSalt("abc");
         user.setHeaderUrl("hhhhhhh");
-        user.getCreateTime(new Date());
+        user.setCreateTime(new Date());
 
         int rows=userMapper.insertUser(user);
         System.out.println(rows);
